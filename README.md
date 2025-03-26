@@ -4,7 +4,10 @@
 
 
 
-<h1>an npm packeage to convert a currency</h1>
+<h1>an npm packeage to convert 
+  
+  
+  a currency</h1>
 
 
 
