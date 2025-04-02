@@ -1,15 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 # saks-currency-converter
 
 
